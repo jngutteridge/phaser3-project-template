@@ -5,6 +5,10 @@ that includes hot-reloading for development and production-ready builds.
 
 Loading images via JavaScript module `import` is also supported.
 
+## Modifications
+
+There are no modifications to the template. The base scene is rewritten to use JavaScript classes.
+
 ## Requirements
 
 [Node.js](https://nodejs.org) is required to install dependencies and run scripts via `npm`.
